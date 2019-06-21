@@ -33,7 +33,7 @@ Conhecimentos
                 <li> Phyton  Basico;</li>
                 <li> Linux</li>
                 </ul>
-                <h2>Cursos</h2>
+Cursos
                 <ul>
                 <li> Design Gráfico;</li>
                 <li> Gestão Empresarial;</li>
