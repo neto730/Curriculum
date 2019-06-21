@@ -7,12 +7,12 @@
    <a href="https://www.facebook.com/Neto730">https://www.facebook.com/Neto730/</a><br>
    <a href="https://www.linkedin.com/in/lourival-neto-829536148">https://www.linkedin.com/in/lourival-neto-829536148/</a>
    
-### Endereço
+<h2> Endereço </h2>
   <p>Rua das Nações Unidas, N° 77<br>
      Vila Ruy Barbosa.<br>
      Salvador-Ba</p>
 
-### Objetivo
+<h2> Objetivo </h2>
 
 <P>Venho informar através deste às minhas formações e agilidades profissionais onde solicito uma vaga no quadro funcional desta empresa.</P>
 
@@ -23,7 +23,7 @@
     Cidade: SALVADOR Estado: BA</P>
 
 
-### Conhecimentos
+<h2> Conhecimentos </h2>
 
 <ul>
                 <li> Office PowerPoint;</li>
@@ -37,7 +37,7 @@
                 <li> Phyton  Basico;</li>
                 <li> Linux</li>
                 </ul>
-### Cursos
+<h2> Cursos <h2>
      
 <ul>
                 <li> Design Gráfico;</li>
@@ -47,7 +47,7 @@
                 </ul>
 
 
-### Experiencia
+<h2> Experiencia </h2>
 
 <ul>
                     <li>Empresa: <b>GMAD Salvador.</b></li>
