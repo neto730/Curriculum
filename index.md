@@ -1,37 +1,71 @@
 ## Lourival E. de Cerqueira Neto
 
-You can use the [editor on GitHub](https://github.com/neto730/Curriculum/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ <h2>Contatos</h2>
+                <P>neto730@hotmail.com<br>
+                (071) 9 9300-0601</P>
+            <h2>Endereço</h2>
+                <p>Rua das Nações Unidas, N° 77<br>
+                    Vila Ruy Barbosa.<br>
+                    Salvador-Ba</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Objetivo
 
-### Markdown
+<P>Venho informar através deste às minhas formações e agilidades profissionais onde solicito uma vaga no quadro funcional desta empresa.</P>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ <h2>Formação Academica</h2>
+        <P>Escola: <b>UNIVERSIDADE FEDERAL DA BAHIA - UFBA</b><br>
+            Curso: <b>CIENCIA DA COMPUTACAO</b><br>
+                Período de Aula: Variável<br>
+                Cidade: SALVADOR Estado: BA</P>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Conhecimentos
 
-- Bulleted
-- List
+<ul>
+                <li> Office PowerPoint;</li>
+                <li> Office Excel;</li>
+                <li> Office Word ;</li>
+                <li> Corel Draw;</li>
+                <li> Adobe Ilustrador;</li>
+                <li> Internet;</li>
+                <li> Linguagem C++  Intermediario;</li>
+                <li> HTML  Basico;</li>
+                <li> Phyton  Basico;</li>
+                <li> Linux</li>
+                </ul>
+                <h2>Cursos</h2>
+                <ul>
+                <li> Design Gráfico;</li>
+                <li> Gestão Empresarial;</li>
+                <li> Gestão Técnicas em Venda;</li>
+                <li> Gestão em Logística;</li>
+                </ul>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Experiencia
 
-[Link](url) and ![Image](src)
-```
+<ul>
+                    <li>Empresa: <b>GMAD Salvador.</b></li>
+                <ul>    
+                    <li>Início: 06/05/2019 ATUAL.</li>
+                    <li>Área de Atuação : Estagio.</li>
+                    <li>Atividades Desenvolvidas: Estagio no setor de T.I.</li>
+                    </ul>
+                </ul>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neto730/Curriculum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<ul>
+                    <li>Empresa: <b>SINTERP.</b></li>
+                <ul>
+                    <li>Início: 07/07/2018 Término: 08/02/2019</li>
+                    <li>Área de Atuação : Estagio.</li>
+                    <li>Atividades Desenvolvidas: Tecnico em T.I e Atividades visuais para postar em materias e divulgações de eventos.</li>
+                    </ul>
+                </ul>
+<ul>
+                    <li>Empresa: <b>FORÇA AEREA BRASILEIRA.</b></li>
+                <ul>    
+                    <li>Início: 01/03/2013 Término: 28/02/2017.</li>
+                    <li>Área de Atuação : SOLDADO.</li>
+                    <li>Atividades Desenvolvidas: Setor Administrativo, Verificação de documentos e arquivos (Seção de Controle Interno).</li>
+                    </ul>
+                </ul>
