@@ -26,9 +26,7 @@
 <h2> Conhecimentos </h2>
 
 <ul>
-                <li> Office PowerPoint;</li>
-                <li> Office Excel;</li>
-                <li> Office Word ;</li>
+                <li> Pacote Offce;</li>
                 <li> Corel Draw;</li>
                 <li> Adobe Ilustrador;</li>
                 <li> Internet;</li>
