@@ -1,4 +1,4 @@
-### Lourival E. de Cequeira Neto
+# Lourival E. de Cequeira Neto
 
 <h2> Contatos </h2>
 
