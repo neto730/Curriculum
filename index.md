@@ -61,7 +61,7 @@
 <ul>
                     <li>Empresa: <b>SINTERP.</b></li>
                 <ul>
-                    <li>Início: 07/07/2018 Término: 08/02/2019</li>
+                    <li>Início: 07/07/2018 Término: 08/02/2019.</li>
                     <li>Área de Atuação : Estagio.</li>
                     <li>Atividades Desenvolvidas: Tecnico em T.I e Atividades visuais para postar em materias e divulgações de eventos.</li>
                     </ul>
