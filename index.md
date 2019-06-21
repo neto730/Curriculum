@@ -5,7 +5,7 @@
 <P>neto730@hotmail.com<br>
    (71) 9 9300-0601</P>
    <a href="https://www.facebook.com/Neto730" target="_blank">https://www.facebook.com/Neto730/</a><br>
-   <a href="https://www.linkedin.com/in/lourival-neto-829536148">https://www.linkedin.com/in/lourival-neto-829536148/</a>
+   <a href="https://www.linkedin.com/in/lourival-neto-829536148" target="_blank">https://www.linkedin.com/in/lourival-neto-829536148/</a>
    
 <h2> Endereço </h2>
   <p>Rua das Nações Unidas, N° 77<br>
