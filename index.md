@@ -1,6 +1,6 @@
-<h1> Lourival E. de Cequeira Neto</h1>
+### Lourival E. de Cequeira Neto
 
-### Contatos
+<h2> Contatos </h2>
 
 <P>neto730@hotmail.com<br>
    (71) 9 9300-0601</P>
