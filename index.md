@@ -19,7 +19,7 @@
     Cidade: SALVADOR Estado: BA</P>
 
 
-##Conhecimentos
+### Conhecimentos
 
 <ul>
                 <li> Office PowerPoint;</li>
@@ -33,7 +33,7 @@
                 <li> Phyton  Basico;</li>
                 <li> Linux</li>
                 </ul>
-##Cursos
+### Cursos
      
 <ul>
                 <li> Design Gráfico;</li>
