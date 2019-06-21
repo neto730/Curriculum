@@ -1,9 +1,11 @@
-
+### Lourival E. de Cequeira Neto
 
 ### Contatos
 
 <P>neto730@hotmail.com<br>
    (71) 9 9300-0601</P>
+   <a>https://www.facebook.com/Neto730</a>
+   <a>https://www.linkedin.com/in/lourival-neto-829536148/</a>
    
 ### Endereço
   <p>Rua das Nações Unidas, N° 77<br>
