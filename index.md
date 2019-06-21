@@ -13,10 +13,10 @@
 <P>Venho informar através deste às minhas formações e agilidades profissionais onde solicito uma vaga no quadro funcional desta empresa.</P>
 
  <h2>Formação Academica</h2>
-        <P>Escola: <b>UNIVERSIDADE FEDERAL DA BAHIA - UFBA</b><br>
-            Curso: <b>CIENCIA DA COMPUTACAO</b><br>
-                Período de Aula: Variável<br>
-                Cidade: SALVADOR Estado: BA</P>
+ <P>Escola: <b>UNIVERSIDADE FEDERAL DA BAHIA - UFBA</b><br>
+    Curso: <b>CIENCIA DA COMPUTACAO</b><br>
+    Período de Aula: Variável<br>
+    Cidade: SALVADOR Estado: BA</P>
 
 
 Conhecimentos
