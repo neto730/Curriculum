@@ -6,10 +6,9 @@
    (071) 9 9300-0601</P>
    
 <h2>Endereço</h2>
-   
-      <p>Rua das Nações Unidas, N° 77<br>
-         Vila Ruy Barbosa.<br>
-         Salvador-Ba</p>
+  <p>Rua das Nações Unidas, N° 77<br>
+     Vila Ruy Barbosa.<br>
+     Salvador-Ba</p>
 
 ### Objetivo
 
