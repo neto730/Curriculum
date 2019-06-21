@@ -1,9 +1,12 @@
 ## Lourival E. de Cerqueira Neto
 
 <h2>Contatos</h2>
+
 <P>neto730@hotmail.com<br>
    (071) 9 9300-0601</P>
-   <h2>Endereço</h2>
+   
+<h2>Endereço</h2>
+   
       <p>Rua das Nações Unidas, N° 77<br>
          Vila Ruy Barbosa.<br>
          Salvador-Ba</p>
