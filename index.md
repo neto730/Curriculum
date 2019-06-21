@@ -37,7 +37,7 @@
                 <li> Phyton  Basico;</li>
                 <li> Linux</li>
                 </ul>
-<h2> Cursos <h2>
+<h2> Cursos </h2>
      
 <ul>
                 <li> Design Gráfico;</li>
